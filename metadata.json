@@ -1,0 +1,7 @@
+{
+  "name": "LabBayk Center",
+  "description": "A stunning multi-category storefront displaying livestock, tech gadgets, books, and marketplace finds with AI-powered product insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
